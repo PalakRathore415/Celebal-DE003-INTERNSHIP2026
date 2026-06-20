@@ -1,0 +1,71 @@
+Basic Data Exploration and Cleaning using Pandas
+
+Project Objective:
+The objective of this assignment was to gain hands-on experience with Python and the Pandas library by performing real-world data exploration, preprocessing, and cleaning operations on an ecommerce dataset.
+
+Dataset Used:
+Combined_dataset.csv
+(Source: Kaggle Ecommerce Dataset)
+
+Work Performed:
+
+1. Data Loading
+
+* Imported and loaded the CSV dataset into a Pandas DataFrame.
+* Verified successful import and dataset structure.
+
+2. Data Exploration
+
+* Inspected the dataset using:
+
+  * head()
+  * shape
+  * columns
+  * data types
+  * info()
+* Understood available features and overall dataset quality.
+
+3. Missing Value Handling
+
+* Identified missing values across numeric and categorical columns.
+* Applied suitable preprocessing:
+
+  * Mean imputation for numeric columns
+  * Mode imputation for categorical columns
+
+4. Data Selection & Filtering
+
+* Selected meaningful columns for analysis.
+* Filtered records using conditions to inspect product-level insights.
+
+5. Data Cleaning
+
+* Removed duplicate entries to improve data consistency and quality.
+
+6. Feature Engineering
+
+* Created a derived column:
+  total_amount
+* Generated using available numerical attributes to demonstrate transformation operations.
+
+7. Data Export
+
+* Saved the cleaned and transformed dataset into a new CSV file for future analysis.
+
+Key Learning Outcomes:
+
+* Practical usage of Pandas DataFrames
+* Data preprocessing workflow
+* Handling real-world dataset inconsistencies
+* Feature engineering concepts
+* Exporting transformed datasets
+
+Tools & Technologies:
+
+* Python
+* Pandas
+* Jupyter Notebook
+* Visual Studio Code
+
+Outcome:
+Successfully created a cleaned and structured dataset ready for further analysis and model development.
