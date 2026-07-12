@@ -1,0 +1,26 @@
+{
+    "name": "DS_Source_Superstore",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "LS_BlobStorage",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobStorageLocation",
+                "fileName": "Sample - Superstore.csv",
+                "container": "superstore-data"
+            },
+            "columnDelimiter": ",",
+            "compressionCodec": null,
+            "compressionLevel": "Fastest",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

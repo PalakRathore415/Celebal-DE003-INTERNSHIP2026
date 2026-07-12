@@ -1,0 +1,9 @@
+Microsoft Azure Portal
+Azure Resource Group
+Azure Storage Account
+Azure Blob Storage
+Azure Data Factory (ADF)
+Azure IAM
+CSV Dataset
+Git
+GitHub

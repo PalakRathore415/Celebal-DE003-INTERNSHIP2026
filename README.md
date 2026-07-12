@@ -8,3 +8,4 @@ This repository contains all assignments completed as part of the Celebal Techno
 | 01 | Basic Data Exploration and Cleaning using Pandas | [Assignment 01](./Assignment_01_Data_Cleaning/) |
 | 02 | SQL Analysis and Querying | [Assignment 02](./Assignment_02_SQL_Analysis/) |
 | 03 | SQL Analysis using Subqueries, CTEs, and Window Functions | [Assignment 03](./Assignment_03_SQL_Analysis/) |
+| 04 | Azure Data Factory Pipeline Implementation | [Assignment 04](./Assignment_04_Azure_ADF_Pipeline/) |

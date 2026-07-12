@@ -1,0 +1,6 @@
+selected resource name:		PL_Copy_Superstore
+selected resource type:		pipeline
+factory name:			adfpalak2026
+factory location:		eastasia
+subscription id:		f265fb49-0061-4333-aef2-131f2933e07d
+time of download (UTC):		Sun, 12 Jul 2026 09:26:36 GMT

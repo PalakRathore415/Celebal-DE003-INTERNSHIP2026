@@ -1,0 +1,23 @@
+{
+    "now": "2026-07-12T09:26:36.400Z",
+    "perfNow": 63456.200000047684,
+    "diagnosticCorrelation": "82c72637-bc93-4333-9b2b-bd6fb4cccc7b",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.061626.0",
+        "environmentType": 3,
+        "resourceName": "adfpalak2026",
+        "resourceRegion": "eastasia",
+        "resourceGroup": "rg-celebal-adf-palak",
+        "subscriptionId": "f265fb49-0061-4333-aef2-131f2933e07d",
+        "sessionId": "wGrvbna08x/M7qNJAy27sW",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "f6c9369d-8df4-4f88-ab5c-425859cbb5d3"
+    },
+    "additionalInfo": {
+        "selectedResource": "PL_Copy_Superstore",
+        "selectedResourceType": "pipeline"
+    }
+}

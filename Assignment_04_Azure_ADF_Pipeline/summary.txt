@@ -1,0 +1,19 @@
+Assignment 04 Summary
+
+This assignment demonstrates the implementation of an end-to-end Azure Data Factory pipeline.
+
+Tasks Completed:
+• Created Azure Resource Group
+• Created Azure Storage Account
+• Created Blob Containers
+• Uploaded Sample Superstore dataset
+• Created Azure Data Factory
+• Configured Linked Services
+• Created Source and Destination Datasets
+• Built pipeline using Get Metadata and Copy Data activities
+• Executed pipeline successfully
+• Verified copied output file
+• Configured IAM role assignments (Reader and Storage Blob Data Contributor)
+
+Outcome:
+Successfully implemented an Azure cloud data pipeline that validates and copies data between Blob Storage containers using Azure Data Factory.
