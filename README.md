@@ -9,4 +9,5 @@ This repository contains all assignments completed as part of the Celebal Techno
 | 02 | SQL Analysis and Querying | [Assignment 02](./Assignment_02_SQL_Analysis/) |
 | 03 | SQL Analysis using Subqueries, CTEs, and Window Functions | [Assignment 03](./Assignment_03_SQL_Analysis/) |
 | 04 | Azure Data Factory Pipeline Implementation | [Assignment 04](./Assignment_04_Azure_ADF_Pipeline/) |
-| 05 | Spark Data Processing using PySpark | [Assignment 05](Assignment_05_Spark_Data_Processing) |
+| 05 | Spark Data Processing using PySpark | [Assignment 05](./Assignment_05_Spark_Data_Proc.../) |
+| 06 | Spark Architecture Pipeline | [Assignment 06](./Assignment_06_Spark_Architecture/) |
