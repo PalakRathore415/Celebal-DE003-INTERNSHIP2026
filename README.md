@@ -11,3 +11,4 @@ This repository contains all assignments completed as part of the Celebal Techno
 | 04 | Azure Data Factory Pipeline Implementation | [Assignment 04](./Assignment_04_Azure_ADF_Pipeline/) |
 | 05 | Spark Data Processing using PySpark | [Assignment 05](./Assignment_05_Spark_Data_Processing_using_PySpark/) |
 | 06 | Spark Architecture Pipeline | [Assignment 06](./Assignment_06_Spark_Architecture/) |
+| 07 | Delta Lake MERGE Implementation | [Assignment 07](./Assignment_07_Delta_Lake_MERGE) |
