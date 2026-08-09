@@ -1,0 +1,36 @@
+E-COMMERCE ORDER ANALYTICS - DATA QUALITY REPORT
+==========================================================
+
+- products: normalized 38 product names.
+- order_items: 75 negative quantities retained as returns.
+- customers: 24 invalid emails found.
+- order_items: 0 orphan order references found.
+
+Invalid customer IDs (emails):
+  - C00001
+  - C00050
+  - C00051
+  - C00100
+  - C00101
+  - C00150
+  - C00151
+  - C00200
+  - C00201
+  - C00250
+  - C00251
+  - C00300
+  - C00301
+  - C00350
+  - C00351
+  - C00400
+  - C00401
+  - C00450
+  - C00451
+  - C00500
+  - C00501
+  - C00550
+  - C00551
+  - C00600
+
+Orphan order-item references:
+  - None
