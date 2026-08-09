@@ -12,3 +12,4 @@ This repository contains all assignments completed as part of the Celebal Techno
 | 05 | Spark Data Processing using PySpark | [Assignment 05](./Assignment_05_Spark_Data_Processing_using_PySpark/) |
 | 06 | Spark Architecture Pipeline | [Assignment 06](./Assignment_06_Spark_Architecture/) |
 | 07 | Delta Lake MERGE Implementation | [Assignment 07](./Assignment_07_Delta_Lake_MERGE) |
+| 08 | E-Commerce Order Analytics System | [Assignment 08](./Assignment_08_ECommerce_Order_Analytics/) |
