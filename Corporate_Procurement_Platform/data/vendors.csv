@@ -1,0 +1,26 @@
+vendor_id,vendor_name,category,region,onboarded_date,payment_terms_days
+V001,Quantum Supplies Ltd,Raw Materials,East,2020-05-16,30
+V002,Crest Supplies Ltd,Consulting,North,2022-04-24,60
+V003,Vertex Industries,Raw Materials,South,2020-04-21,15
+V004,Pinnacle Trading Co,Consulting,West,2020-03-27,60
+V005,Atlas Materials,MRO Parts,North,2023-04-04,30
+V006,Sapphire Corp,Office Supplies,East,2019-11-15,30
+V007,Northgate Solutions,Raw Materials,North,2021-02-17,15
+V008,Pioneer Solutions,Packaging,East,2023-07-11,15
+V009,Ironclad Enterprises,Packaging,North,2021-02-14,15
+V010,Pinnacle Materials,MRO Parts,East,2022-03-28,30
+V011,Sapphire Supplies Ltd,Raw Materials,South,2023-05-03,45
+V012,Orion Trading Co,MRO Parts,North,2021-02-17,45
+V013,Cascade Solutions,IT Equipment,East,2020-12-28,30
+V014,Redwood Materials,Consulting,North,2022-06-01,30
+V015,Pinnacle Trading Co,IT Equipment,West,2021-02-16,45
+V016,Quantum Trading Co,Consulting,East,2023-09-23,15
+V017,Anchor Industries,MRO Parts,East,2021-04-01,45
+V018,Orion Trading Co,Packaging,East,2020-03-11,60
+V019,Titan Enterprises,IT Equipment,East,2019-10-13,30
+V020,Ironclad Materials,Consulting,West,2022-04-10,60
+V021,Pioneer Trading Co,IT Equipment,West,2019-07-06,15
+V022,Summit Logistics,Consulting,South,2023-06-11,60
+V023,Vantage Supplies Ltd,Logistics,West,2022-05-05,60
+V024,Zenith Materials,Packaging,North,2022-10-25,15
+V025,Redwood Materials,MRO Parts,East,2019-08-17,45
